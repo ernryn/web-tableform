@@ -1,0 +1,27 @@
+.card {
+    background-color: #f7f7f7;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bg-body-light{
+    border-bottom: 1px solid #e0e0e0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px solid #c0bfbf;
+    border-bottom: 3px solid #c0bfbf;
+}
+
+thead {
+    color: white;
+}
+
+th, td {
+    padding: 4px;
+    border-bottom: 1px solid #c0bfbf;
+}
+
+
